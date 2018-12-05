@@ -1,0 +1,2 @@
+S01 S01_R1.fastq S01_R2.fastq
+S02 S02_R1.fastq S02_R2.fastq
